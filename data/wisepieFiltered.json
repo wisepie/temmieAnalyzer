@@ -1,210 +1,610 @@
 [
   {
+    "view_count": 116,
+    "participant_count": 56,
     "id": "3RnYXmDapye",
     "title": "Did you like the temmiePlayer bot?",
     "options": [
-      "Yes, IT WAS AMAZING!",
-      "Yes, it is still missing some things",
-      "Meh",
-      "No, dgg movie night should have human conductors",
-      "No, other reason"
+      {
+        "value": "Yes, IT WAS AMAZING!",
+        "vote_count": 16
+      },
+      {
+        "value": "Yes, it is still missing some things",
+        "vote_count": 14
+      },
+      {
+        "value": "Meh",
+        "vote_count": 13
+      },
+      {
+        "value": "No, dgg movie night should have human conductors",
+        "vote_count": 12
+      },
+      {
+        "value": "No, other reason",
+        "vote_count": 1
+      }
     ]
   },
   {
+    "view_count": 112,
+    "participant_count": 87,
     "id": "BDyNzRNrwyR",
     "title": "test",
     "options": [
-      "Civil War (2024)",
-      "Tenet (2020)",
-      "Whiplash (2014)",
-      "The Virgin Suicides (2000)",
-      "Funny Games (2008)"
+      {
+        "value": "Civil War (2024)",
+        "vote_count": 25
+      },
+      {
+        "value": "Tenet (2020)",
+        "vote_count": 27
+      },
+      {
+        "value": "Whiplash (2014)",
+        "vote_count": 8
+      },
+      {
+        "value": "The Virgin Suicides (2000)",
+        "vote_count": 16
+      },
+      {
+        "value": "Funny Games (2008)",
+        "vote_count": 11
+      }
     ]
   },
   {
+    "view_count": 121,
+    "participant_count": 85,
     "id": "GJn44ak5mnz",
     "title": "test",
     "options": [
-      "Civil War (2024)",
-      "Irreversible (2002)",
-      "Oshi no Ko -The Final Act- (2024)",
-      "Sour Grapes (2016)",
-      "Drumline (2002)",
-      "Whiplash (2014)",
-      "Anomalisa (2015)",
-      "Tenet (2020)",
-      "Buffalo '66 (1998)",
-      "Godzilla: Final Wars (2004)",
-      "The Virgin Suicides (2000)",
-      "Funny Games (2008)",
-      "MouseHunt (1997)",
-      "Friendship! (2010)"
+      {
+        "value": "Civil War (2024)",
+        "vote_count": 36
+      },
+      {
+        "value": "Irreversible (2002)",
+        "vote_count": 12
+      },
+      {
+        "value": "Oshi no Ko -The Final Act- (2024)",
+        "vote_count": 16
+      },
+      {
+        "value": "Sour Grapes (2016)",
+        "vote_count": 5
+      },
+      {
+        "value": "Drumline (2002)",
+        "vote_count": 6
+      },
+      {
+        "value": "Whiplash (2014)",
+        "vote_count": 18
+      },
+      {
+        "value": "Anomalisa (2015)",
+        "vote_count": 8
+      },
+      {
+        "value": "Tenet (2020)",
+        "vote_count": 30
+      },
+      {
+        "value": "Buffalo '66 (1998)",
+        "vote_count": 10
+      },
+      {
+        "value": "Godzilla: Final Wars (2004)",
+        "vote_count": 13
+      },
+      {
+        "value": "The Virgin Suicides (2000)",
+        "vote_count": 17
+      },
+      {
+        "value": "Funny Games (2008)",
+        "vote_count": 14
+      },
+      {
+        "value": "MouseHunt (1997)",
+        "vote_count": 11
+      },
+      {
+        "value": "Friendship! (2010)",
+        "vote_count": 4
+      }
     ]
   },
   {
+    "view_count": 109,
+    "participant_count": 69,
     "id": "X3nkPxqRjgE",
     "title": "test",
     "options": [
-      "Love Exposure (2009)",
-      "A Minecraft Movie (2025)",
-      "The Passion of the Christ (2004)",
-      "Warfare (2025)",
-      "The Super Mario Bros. Movie (2023)",
-      "The Virgin Suicides"
+      {
+        "value": "Love Exposure (2009)",
+        "vote_count": 14
+      },
+      {
+        "value": "A Minecraft Movie (2025)",
+        "vote_count": 13
+      },
+      {
+        "value": "The Passion of the Christ (2004)",
+        "vote_count": 9
+      },
+      {
+        "value": "Warfare (2025)",
+        "vote_count": 14
+      },
+      {
+        "value": "The Super Mario Bros. Movie (2023)",
+        "vote_count": 8
+      },
+      {
+        "value": "The Virgin Suicides",
+        "vote_count": 11
+      }
     ]
   },
   {
+    "view_count": 83,
+    "participant_count": 57,
     "id": "mpnb1pOkEy5",
     "title": "test",
     "options": [
-      "Hard Hit (2021)",
-      "The Super Mario Bros. Movie (2023)",
-      "Kite (2014)",
-      "We Bought a Zoo (2011)",
-      "Anomalisa (2015)",
-      "The Virgin Suicides (2000)",
-      "A Minecraft Movie (2025)",
-      "Rifftrax Live: Reefer Madness (2010)",
-      "Raising Arizona (1987)",
-      "Funny Games (2008)",
-      "The Passion of the Christ (2004)",
-      "Warfare (2025)",
-      "Love Exposure (2009)",
-      "Salo (2012)",
-      "Buffalo 66"
+      {
+        "value": "Hard Hit (2021)",
+        "vote_count": 7
+      },
+      {
+        "value": "The Super Mario Bros. Movie (2023)",
+        "vote_count": 12
+      },
+      {
+        "value": "Kite (2014)",
+        "vote_count": 6
+      },
+      {
+        "value": "We Bought a Zoo (2011)",
+        "vote_count": 5
+      },
+      {
+        "value": "Anomalisa (2015)",
+        "vote_count": 8
+      },
+      {
+        "value": "The Virgin Suicides (2000)",
+        "vote_count": 11
+      },
+      {
+        "value": "A Minecraft Movie (2025)",
+        "vote_count": 16
+      },
+      {
+        "value": "Rifftrax Live: Reefer Madness (2010)",
+        "vote_count": 5
+      },
+      {
+        "value": "Raising Arizona (1987)",
+        "vote_count": 11
+      },
+      {
+        "value": "Funny Games (2008)",
+        "vote_count": 9
+      },
+      {
+        "value": "The Passion of the Christ (2004)",
+        "vote_count": 15
+      },
+      {
+        "value": "Warfare (2025)",
+        "vote_count": 15
+      },
+      {
+        "value": "Love Exposure (2009)",
+        "vote_count": 24
+      },
+      {
+        "value": "Salo (2012)",
+        "vote_count": 10
+      },
+      {
+        "value": "Buffalo 66",
+        "vote_count": 2
+      }
     ]
   },
   {
+    "view_count": 90,
+    "participant_count": 42,
     "id": "bVg8BY4veyY",
     "title": "test",
     "options": [
-      "Guhit (2022)",
-      "Death of a Unicorn (2025)",
-      "Mickey's House of Villains (2001)",
-      "Cach\u00e9 (2005)",
-      "Hard Hit (2021)",
-      "temmieDank"
+      {
+        "value": "Guhit (2022)",
+        "vote_count": 0
+      },
+      {
+        "value": "Death of a Unicorn (2025)",
+        "vote_count": 5
+      },
+      {
+        "value": "Mickey's House of Villains (2001)",
+        "vote_count": 8
+      },
+      {
+        "value": "Cach\u00e9 (2005)",
+        "vote_count": 9
+      },
+      {
+        "value": "Hard Hit (2021)",
+        "vote_count": 5
+      },
+      {
+        "value": "temmieDank",
+        "vote_count": 15
+      }
     ]
   },
   {
+    "view_count": 99,
+    "participant_count": 54,
     "id": "wAg3QzD7Gy8",
     "title": "test",
     "options": [
-      "Hard Hit (2021)",
-      "Guhit (2022)",
-      "P\u00c9P\u00c9 (2025)",
-      "Death of a Unicorn (2025)",
-      "Cach\u00e9 (2005)",
-      "Warfare (2025)",
-      "The Virgin Suicides (2000)",
-      "Funny Games (2008)",
-      "Agent Cody Banks (2003)",
-      "Raising Arizona (1987)",
-      "Toy Story 2 (1999)",
-      "Slavoj \u017di\u017eek Birthday Special: Politics, Philosophy, and Hardcore Pornography (2019)",
-      "Cuties (2020)",
-      "Mickey's House of Villains (2001)",
-      "Buffalo '66 (1998)"
+      {
+        "value": "Hard Hit (2021)",
+        "vote_count": 8
+      },
+      {
+        "value": "Guhit (2022)",
+        "vote_count": 2
+      },
+      {
+        "value": "P\u00c9P\u00c9 (2025)",
+        "vote_count": 7
+      },
+      {
+        "value": "Death of a Unicorn (2025)",
+        "vote_count": 3
+      },
+      {
+        "value": "Cach\u00e9 (2005)",
+        "vote_count": 5
+      },
+      {
+        "value": "Warfare (2025)",
+        "vote_count": 9
+      },
+      {
+        "value": "The Virgin Suicides (2000)",
+        "vote_count": 15
+      },
+      {
+        "value": "Funny Games (2008)",
+        "vote_count": 9
+      },
+      {
+        "value": "Agent Cody Banks (2003)",
+        "vote_count": 8
+      },
+      {
+        "value": "Raising Arizona (1987)",
+        "vote_count": 9
+      },
+      {
+        "value": "Toy Story 2 (1999)",
+        "vote_count": 13
+      },
+      {
+        "value": "Slavoj \u017di\u017eek Birthday Special: Politics, Philosophy, and Hardcore Pornography (2019)",
+        "vote_count": 8
+      },
+      {
+        "value": "Cuties (2020)",
+        "vote_count": 23
+      },
+      {
+        "value": "Mickey's House of Villains (2001)",
+        "vote_count": 5
+      },
+      {
+        "value": "Buffalo '66 (1998)",
+        "vote_count": 8
+      }
     ]
   },
   {
+    "view_count": 94,
+    "participant_count": 65,
     "id": "GJn445wKbnz",
     "title": "LAST ONE",
     "options": [
-      "MEN IN BLACK 3",
-      "AMERICAN BEAUTY"
+      {
+        "value": "MEN IN BLACK 3",
+        "vote_count": 42
+      },
+      {
+        "value": "AMERICAN BEAUTY",
+        "vote_count": 23
+      }
     ]
   },
   {
+    "view_count": 90,
+    "participant_count": 72,
     "id": "PKgleDQNaZp",
     "title": "POLLLLLLL",
     "options": [
-      "MEN IN BLACK 3",
-      "AMERICAN BEAUTY",
-      "Thunderbolts (CAMRIP)",
-      "TOP GEAR USA SPECIAL",
-      "Crank",
-      "TEMMIEDANK"
+      {
+        "value": "MEN IN BLACK 3",
+        "vote_count": 25
+      },
+      {
+        "value": "AMERICAN BEAUTY",
+        "vote_count": 8
+      },
+      {
+        "value": "Thunderbolts (CAMRIP)",
+        "vote_count": 10
+      },
+      {
+        "value": "TOP GEAR USA SPECIAL",
+        "vote_count": 15
+      },
+      {
+        "value": "Crank",
+        "vote_count": 8
+      },
+      {
+        "value": "TEMMIEDANK",
+        "vote_count": 6
+      }
     ]
   },
   {
+    "view_count": 91,
+    "participant_count": 68,
     "id": "40Zm4jovoga",
     "title": "MORE POLLS POOTUBE",
     "options": [
-      "MEN IN BLACK 3",
-      "AMERICAN BEAUTY",
-      "TOP GEAR USA SPECIAL",
-      "K-ON (yikes)",
-      "Funny Games 2007",
-      "Eye in the Sky",
-      "Postal (2007)",
-      "Thunderbolts (CAMRIP)",
-      "amelie 2001",
-      "spree 2020",
-      "The Lawnmower Man 1992",
-      "existenz 1999",
-      "mallrats",
-      "Crank"
+      {
+        "value": "MEN IN BLACK 3",
+        "vote_count": 31
+      },
+      {
+        "value": "AMERICAN BEAUTY",
+        "vote_count": 19
+      },
+      {
+        "value": "TOP GEAR USA SPECIAL",
+        "vote_count": 15
+      },
+      {
+        "value": "K-ON (yikes)",
+        "vote_count": 12
+      },
+      {
+        "value": "Funny Games 2007",
+        "vote_count": 10
+      },
+      {
+        "value": "Eye in the Sky",
+        "vote_count": 9
+      },
+      {
+        "value": "Postal (2007)",
+        "vote_count": 10
+      },
+      {
+        "value": "Thunderbolts (CAMRIP)",
+        "vote_count": 18
+      },
+      {
+        "value": "amelie 2001",
+        "vote_count": 11
+      },
+      {
+        "value": "spree 2020",
+        "vote_count": 7
+      },
+      {
+        "value": "The Lawnmower Man 1992",
+        "vote_count": 11
+      },
+      {
+        "value": "existenz 1999",
+        "vote_count": 6
+      },
+      {
+        "value": "mallrats",
+        "vote_count": 11
+      },
+      {
+        "value": "Crank",
+        "vote_count": 15
+      }
     ]
   },
   {
+    "view_count": 49,
+    "participant_count": 29,
     "id": "PKgleDQN9Zp",
     "title": "MORE POLLS POOTUBE",
     "options": [
-      "MEN IN BLACK 3",
-      "AMERICAN BEAUTY",
-      "TOP GEAR USA SPECIAL",
-      "K-ON (yikes)",
-      "Funny Games 2007",
-      "Eye in the Sky",
-      "Postal (2007)",
-      "Thunderbolts (CAMRIP)",
-      "amelie 2001",
-      "spree 2020",
-      "The Lawnmower Man 1992",
-      "existenz 1999",
-      "mallrats",
-      "Crank"
+      {
+        "value": "MEN IN BLACK 3",
+        "vote_count": 14
+      },
+      {
+        "value": "AMERICAN BEAUTY",
+        "vote_count": 2
+      },
+      {
+        "value": "TOP GEAR USA SPECIAL",
+        "vote_count": 3
+      },
+      {
+        "value": "K-ON (yikes)",
+        "vote_count": 3
+      },
+      {
+        "value": "Funny Games 2007",
+        "vote_count": 0
+      },
+      {
+        "value": "Eye in the Sky",
+        "vote_count": 0
+      },
+      {
+        "value": "Postal (2007)",
+        "vote_count": 0
+      },
+      {
+        "value": "Thunderbolts (CAMRIP)",
+        "vote_count": 2
+      },
+      {
+        "value": "amelie 2001",
+        "vote_count": 1
+      },
+      {
+        "value": "spree 2020",
+        "vote_count": 0
+      },
+      {
+        "value": "The Lawnmower Man 1992",
+        "vote_count": 1
+      },
+      {
+        "value": "existenz 1999",
+        "vote_count": 1
+      },
+      {
+        "value": "mallrats",
+        "vote_count": 0
+      },
+      {
+        "value": "Crank",
+        "vote_count": 2
+      }
     ]
   },
   {
+    "view_count": 104,
+    "participant_count": 74,
     "id": "e6Z2AkjKJgN",
     "title": "POLLSSSS",
     "options": [
-      "TOMORROW NEVER DIES (#2 ON LAST POLL + ALREADY DOWNLOADED)",
-      "SOMETHING ELSE"
+      {
+        "value": "TOMORROW NEVER DIES (#2 ON LAST POLL + ALREADY DOWNLOADED)",
+        "vote_count": 21
+      },
+      {
+        "value": "SOMETHING ELSE",
+        "vote_count": 53
+      }
     ]
   },
   {
+    "view_count": 164,
+    "participant_count": 115,
     "id": "ajnE1DajNnW",
     "title": "POLLS",
     "options": [
-      "Virgin Suicides 1999",
-      "MEN IN BLACK 2",
-      "BIONICLES",
-      "TOMORROW NEVER DIES",
-      "YOU ONLY LIVE TWICE"
+      {
+        "value": "Virgin Suicides 1999",
+        "vote_count": 40
+      },
+      {
+        "value": "MEN IN BLACK 2",
+        "vote_count": 24
+      },
+      {
+        "value": "BIONICLES",
+        "vote_count": 15
+      },
+      {
+        "value": "TOMORROW NEVER DIES",
+        "vote_count": 24
+      },
+      {
+        "value": "YOU ONLY LIVE TWICE",
+        "vote_count": 12
+      }
     ]
   },
   {
+    "view_count": 158,
+    "participant_count": 101,
     "id": "61gD9DzjaZw",
     "title": "POLL",
     "options": [
-      "Final Destination 1",
-      "MAGAZINE DREAMS",
-      "BIONICLES",
-      "SNACK SHACK",
-      "FOXCATCHER",
-      "MAMMA MIA",
-      "FUNNY GAMES 2007",
-      "MOUSEHUNT",
-      "ARGO",
-      "SPREE",
-      "TOMORROW NEVER DIES",
-      "MEN IN BLACK 2",
-      "BEFORE SUNRISE",
-      "SILENCE 2016",
-      "YOU ONLY LIVE TWICE"
+      {
+        "value": "Final Destination 1",
+        "vote_count": 45
+      },
+      {
+        "value": "MAGAZINE DREAMS",
+        "vote_count": 10
+      },
+      {
+        "value": "BIONICLES",
+        "vote_count": 27
+      },
+      {
+        "value": "SNACK SHACK",
+        "vote_count": 8
+      },
+      {
+        "value": "FOXCATCHER",
+        "vote_count": 11
+      },
+      {
+        "value": "MAMMA MIA",
+        "vote_count": 11
+      },
+      {
+        "value": "FUNNY GAMES 2007",
+        "vote_count": 17
+      },
+      {
+        "value": "MOUSEHUNT",
+        "vote_count": 7
+      },
+      {
+        "value": "ARGO",
+        "vote_count": 14
+      },
+      {
+        "value": "SPREE",
+        "vote_count": 9
+      },
+      {
+        "value": "TOMORROW NEVER DIES",
+        "vote_count": 27
+      },
+      {
+        "value": "MEN IN BLACK 2",
+        "vote_count": 35
+      },
+      {
+        "value": "BEFORE SUNRISE",
+        "vote_count": 16
+      },
+      {
+        "value": "SILENCE 2016",
+        "vote_count": 9
+      },
+      {
+        "value": "YOU ONLY LIVE TWICE",
+        "vote_count": 26
+      }
     ]
   }
 ]
