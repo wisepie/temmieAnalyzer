@@ -1,5 +1,6 @@
 [
   {
+    "created_at": 1748090690,
     "view_count": 116,
     "participant_count": 56,
     "id": "3RnYXmDapye",
@@ -25,9 +26,11 @@
         "value": "No, other reason",
         "vote_count": 1
       }
-    ]
+    ],
+    "type": "multiple_choice"
   },
   {
+    "created_at": 1748081230,
     "view_count": 112,
     "participant_count": 87,
     "id": "BDyNzRNrwyR",
@@ -53,9 +56,11 @@
         "value": "Funny Games (2008)",
         "vote_count": 11
       }
-    ]
+    ],
+    "type": "ranking"
   },
   {
+    "created_at": 1748080972,
     "view_count": 121,
     "participant_count": 85,
     "id": "GJn44ak5mnz",
@@ -117,9 +122,11 @@
         "value": "Friendship! (2010)",
         "vote_count": 4
       }
-    ]
+    ],
+    "type": "multiple_choice"
   },
   {
+    "created_at": 1748074957,
     "view_count": 109,
     "participant_count": 69,
     "id": "X3nkPxqRjgE",
@@ -149,9 +156,11 @@
         "value": "The Virgin Suicides",
         "vote_count": 11
       }
-    ]
+    ],
+    "type": "ranking"
   },
   {
+    "created_at": 1748074698,
     "view_count": 83,
     "participant_count": 57,
     "id": "mpnb1pOkEy5",
@@ -217,9 +226,11 @@
         "value": "Buffalo 66",
         "vote_count": 2
       }
-    ]
+    ],
+    "type": "multiple_choice"
   },
   {
+    "created_at": 1748074200,
     "view_count": 90,
     "participant_count": 42,
     "id": "bVg8BY4veyY",
@@ -249,9 +260,11 @@
         "value": "temmieDank",
         "vote_count": 15
       }
-    ]
+    ],
+    "type": "ranking"
   },
   {
+    "created_at": 1748073942,
     "view_count": 99,
     "participant_count": 54,
     "id": "wAg3QzD7Gy8",
@@ -317,9 +330,11 @@
         "value": "Buffalo '66 (1998)",
         "vote_count": 8
       }
-    ]
+    ],
+    "type": "multiple_choice"
   },
   {
+    "created_at": 1746868135,
     "view_count": 94,
     "participant_count": 65,
     "id": "GJn445wKbnz",
@@ -333,9 +348,11 @@
         "value": "AMERICAN BEAUTY",
         "vote_count": 23
       }
-    ]
+    ],
+    "type": "multiple_choice"
   },
   {
+    "created_at": 1746867906,
     "view_count": 90,
     "participant_count": 72,
     "id": "PKgleDQNaZp",
@@ -365,9 +382,11 @@
         "value": "TEMMIEDANK",
         "vote_count": 6
       }
-    ]
+    ],
+    "type": "ranking"
   },
   {
+    "created_at": 1746867653,
     "view_count": 91,
     "participant_count": 68,
     "id": "40Zm4jovoga",
@@ -429,9 +448,11 @@
         "value": "Crank",
         "vote_count": 15
       }
-    ]
+    ],
+    "type": "multiple_choice"
   },
   {
+    "created_at": 1746867627,
     "view_count": 49,
     "participant_count": 29,
     "id": "PKgleDQN9Zp",
@@ -493,9 +514,11 @@
         "value": "Crank",
         "vote_count": 2
       }
-    ]
+    ],
+    "type": "multiple_choice"
   },
   {
+    "created_at": 1746867229,
     "view_count": 104,
     "participant_count": 74,
     "id": "e6Z2AkjKJgN",
@@ -509,9 +532,11 @@
         "value": "SOMETHING ELSE",
         "vote_count": 53
       }
-    ]
+    ],
+    "type": "multiple_choice"
   },
   {
+    "created_at": 1746860776,
     "view_count": 164,
     "participant_count": 115,
     "id": "ajnE1DajNnW",
@@ -537,9 +562,11 @@
         "value": "YOU ONLY LIVE TWICE",
         "vote_count": 12
       }
-    ]
+    ],
+    "type": "ranking"
   },
   {
+    "created_at": 1746860029,
     "view_count": 158,
     "participant_count": 101,
     "id": "61gD9DzjaZw",
@@ -605,6 +632,7 @@
         "value": "YOU ONLY LIVE TWICE",
         "vote_count": 26
       }
-    ]
+    ],
+    "type": "multiple_choice"
   }
 ]
