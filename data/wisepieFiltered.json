@@ -1,35 +1,5 @@
 [
   {
-    "created_at": 1748090690,
-    "view_count": 116,
-    "participant_count": 56,
-    "id": "3RnYXmDapye",
-    "title": "Did you like the temmiePlayer bot?",
-    "options": [
-      {
-        "value": "Yes, IT WAS AMAZING!",
-        "vote_count": 16
-      },
-      {
-        "value": "Yes, it is still missing some things",
-        "vote_count": 14
-      },
-      {
-        "value": "Meh",
-        "vote_count": 13
-      },
-      {
-        "value": "No, dgg movie night should have human conductors",
-        "vote_count": 12
-      },
-      {
-        "value": "No, other reason",
-        "vote_count": 1
-      }
-    ],
-    "type": "multiple_choice"
-  },
-  {
     "created_at": 1748081230,
     "view_count": 112,
     "participant_count": 87,
